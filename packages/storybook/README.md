@@ -4,7 +4,7 @@ This package provides a Storybook build for Backstage. See https://backstage.io/
 
 ## Usage
 
-To run the storybook locally, call `yarn storybook` in repo root. This will show the default set of stories that we publish to https://backstage.io/storybook
+To run the storybook locally, call `yarn storybook` in your repo root. This will show the default set of stories that we publish to [our official storybook site](https://backstage.io/storybook).
 
 If you want to show stories other than the default set, you can pass one or more package paths as an argument when calling storybook, for example:
 
