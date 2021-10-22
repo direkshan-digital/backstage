@@ -1,5 +1,17 @@
 # @backstage/plugin-scaffolder
 
+## 0.11.9
+
+### Patch Changes
+
+- 10615525f3: Switch to use the json and observable types from `@backstage/types`
+- Updated dependencies
+  - @backstage/catalog-model@0.9.6
+  - @backstage/errors@0.1.4
+  - @backstage/plugin-catalog-react@0.6.2
+  - @backstage/config@0.1.11
+  - @backstage/core-plugin-api@0.1.12
+
 ## 0.11.8
 
 ### Patch Changes
